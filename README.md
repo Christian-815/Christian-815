@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Ash!)](https://git.io/typing-svg)
 
 <!--
 **Christian-815/Christian-815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
